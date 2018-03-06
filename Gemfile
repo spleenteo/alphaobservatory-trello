@@ -2,5 +2,6 @@
 source "https://rubygems.org"
 
 gem 'dotenv'
+gem 'faker'
 gem 'pp'
 gem 'ruby-trello'
